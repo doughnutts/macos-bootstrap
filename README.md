@@ -1,2 +1,2 @@
-# macos-botstrap
+# macos-bootstrap
 bootstrap
